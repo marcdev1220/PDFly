@@ -1,0 +1,61 @@
+## .NET / Visual Studio build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+*.user
+*.suo
+artifacts/
+
+# Build logs / test results
+*.log
+*.binlog
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+
+# MSIX packaging output
+AppPackages/
+BundleArtifacts/
+*.msix
+*.msixupload
+*.appx
+*.appxbundle
+*.appxupload
+
+# Code-signing material - never commit these
+*.cer
+*.pfx
+*.snk
+
+# Publish / distribution output
+[Pp]ublish/
+dist/
+out/
+*.zip
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# Generated files
+Generated\ Files/
+
+# Claude Code / local AI tooling (keep local, do not publish)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
