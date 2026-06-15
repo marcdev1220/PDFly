@@ -1,0 +1,7 @@
+# Track ONLY the public landing files; ignore everything else (source, build, zips).
+/*
+!/.gitattributes
+!/.gitignore
+!/.github/
+!/LICENSE
+!/README.md
