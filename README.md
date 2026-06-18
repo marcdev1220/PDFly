@@ -29,8 +29,9 @@ Drop files or folders onto the window (or use **Add files… / Add folder…**).
 
 Preferences live in `%AppData%\PDFly\settings.json`. Crash details, if anything throws, are appended to `%AppData%\PDFly\crash.log`.
 ## The app
-https://github.com/user-attachments/assets/6287f139-311e-4af5-8640-b974d693fd7c
-https://github.com/user-attachments/assets/6fb7d0e8-378b-4010-919d-c81fa28e11bd
+<video src="https://github.com/user-attachments/assets/6287f139-311e-4af5-8640-b974d693fd7c" width="300" controls preload></video>
+
+<video src="https://github.com/user-attachments/assets/6fb7d0e8-378b-4010-919d-c81fa28e11bd" width="300" controls preload></video>
 
 ## Requirements
 
