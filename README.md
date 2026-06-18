@@ -28,6 +28,9 @@ Drop files or folders onto the window (or use **Add files… / Add folder…**).
 - Live status per row — *Waiting → Converting → Saved \<file\>* / *Skipped — already exists* / *Failed — \<reason\>* with a coloured glyph.
 
 Preferences live in `%AppData%\PDFly\settings.json`. Crash details, if anything throws, are appended to `%AppData%\PDFly\crash.log`.
+## The app
+https://github.com/user-attachments/assets/6287f139-311e-4af5-8640-b974d693fd7c
+https://github.com/user-attachments/assets/6fb7d0e8-378b-4010-919d-c81fa28e11bd
 
 ## Requirements
 
